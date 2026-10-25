@@ -75,7 +75,7 @@ that a contract, payment method, or service causes churn.
 * KPI cards: total customers, churned customers, churn rate, retained customers, and retention rate.
 * Churn comparisons by contract, tenure group, internet service, payment method, monthly charges, and senior-citizen status.
 
-![Customer Churn Overview](Screenshots/Dashboard%20Image%201.png)
+![Customer Churn Overview](Screenshot/Dashboard%20Image%201.png)
 
 ### Page 2 — Customer Risk & Retention Insights
 
@@ -83,7 +83,7 @@ that a contract, payment method, or service causes churn.
 * Matrices combining contract type with tenure and payment method.
 * Slicers for contract, internet service, payment method, senior-citizen status, paperless billing, and tenure group.
 
-![Customer Risk and Retention Insights](Screenshots/Dashboard%20Image%202.png)
+![Customer Risk and Retention Insights](Screenshot/Dashboard%20Image%202.png)
 
 ## DAX Measures
 
