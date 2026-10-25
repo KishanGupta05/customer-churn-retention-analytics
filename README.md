@@ -70,22 +70,20 @@ that a contract, payment method, or service causes churn.
 
 ## Power BI Dashboard
 
-### Page 1 --- Customer Churn Overview
+### Page 1 — Customer Churn Overview
 
--   KPI cards: total customers, churned customers, churn rate, retained
-    customers, retention rate
--   Churn comparisons by contract, tenure group, internet service,
-    payment method, monthly charges, and senior-citizen status
-    ![Customer Churn Overview](Screenshots/Dashboard%20Image%201.png)
+* KPI cards: total customers, churned customers, churn rate, retained customers, and retention rate.
+* Churn comparisons by contract, tenure group, internet service, payment method, monthly charges, and senior-citizen status.
 
-### Page 2 --- Customer Risk & Retention Insights
+![Customer Churn Overview](Screenshots/Dashboard%20Image%201.png)
 
--   Churn comparisons by Paperless Billing, Online Security, Tech
-    Support, Online Backup, and Device Protection
--   Matrices combining contract type with tenure and payment method
--   Slicers for contract, internet service, payment method,
-    senior-citizen status, paperless billing, and tenure group
-    ![Customer Risk and Retention Insights](Screenshots/Dashboard%20Image%202.png)
+### Page 2 — Customer Risk & Retention Insights
+
+* Churn comparisons by Paperless Billing, Online Security, Tech Support, Online Backup, and Device Protection.
+* Matrices combining contract type with tenure and payment method.
+* Slicers for contract, internet service, payment method, senior-citizen status, paperless billing, and tenure group.
+
+![Customer Risk and Retention Insights](Screenshots/Dashboard%20Image%202.png)
 
 ## DAX Measures
 
